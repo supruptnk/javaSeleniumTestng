@@ -3,7 +3,7 @@
 <suite name="Suite">
    <test name="LoginTests">
       <classes>
-         <class name="practice.selenium.testng.Main"/>
+         <class name="testGoogle"/>
       </classes>
    </test>
 </suite>
